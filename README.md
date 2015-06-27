@@ -79,3 +79,7 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 ##### 12. Push the branch to the `origin` remote on GitHub
 
 ##### 13. Send a pull request from this branch to Code Fellows' `master` branch
+
+#things that were great the teachers, teacher's aids, times for the class, breaks, in depth understanding and knowledge given
+#things that were not so great, hard to see the screen from the back, things moved so quickly I got lost a lot (teachers helped me a lot too though so I never got left behind for long)
+#to imrove a suggestion is to write steps on the white board so its easy to see what is being typed in the terminal.
